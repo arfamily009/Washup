@@ -83,7 +83,7 @@ export default function Hero({ onScrollTo }: HeroProps) {
               </span>
               <span className="w-1.5 h-1.5 rounded-full bg-white/40"></span>
               <span className="flex items-center gap-1.5">
-                <MapPin className="w-4 h-4 text-cyan-400" />
+                <MapPin className="w-4 h-4 text-red-500" />
                 Serving Delhi, Gurgaon, Noida & Gaziabad
               </span>
             </div>
